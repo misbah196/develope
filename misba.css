@@ -1,0 +1,55 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+
+#navbar-brand img{
+    height: 40px;
+    padding-left: 30px;
+
+
+
+}
+.navbar{
+    height: 50px;
+}
+
+
+
+.navbar-nav li a{
+    float: right;
+    text-align: left;
+}
+
+
+#header:hover{
+    color:#013f7e;
+    
+}
+#header{
+    height: 10px;
+}
+.navbar{
+    background: #fff;
+}
+.navbar-toggler{
+    border: none;
+}
+.nav-item{
+    color: #555;
+    font-weight: 600;
+    font-size: 20px;
+}
+.d-block {
+    height: 700px;
+    width: 1290px;
+    padding-top: 50px;
+}
+
